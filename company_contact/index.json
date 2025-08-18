@@ -1,0 +1,40 @@
+{
+  "company": {
+    "fullNameofOrganization": "Автономная некоммерческая организация дополнительного профессионального образования «Вариант»",
+    "shortNameofOrganization": "АНО ДПО «Вариант»",
+    "inn": 5022079490,
+    "kpp": 502201001,
+    "legalAddress":"Московская обл., г.о.Коломна, г.Коломна, ул.Леваневского д.36 ",
+    "actualAddress": "Московская обл., г.о.Коломна, г.Коломна, ул.Леваневского д.36",
+    "postalCode": 140411,
+    "ogrn": 1245000141253,
+    "dateOfRegistration": "16.12.2024",
+    "okpo": 50609060,
+    "okved2": 85.42,
+    "okopf": 71400,
+    "taxationSystem": "УСН (доходы)",
+    "bankDetails": {
+      "bankName": "ПАО 'Сбербанк'",
+      "bik": "044525225",
+      "correspondentAccount": 30101810400000000225 ,
+      "checkingAccount": 40703810940710000032
+    },
+
+
+
+
+    "email": "89175221282@mail.ru",
+    "telegram": "https://t.me/Maxmax_frontDev",
+    "github": "https://github.com/maximmc911",
+    "telephone": "+79175221282",
+    "address": "Russia, Moscow",
+    "whatsapp": "https://wa.me/79175221282",
+    "vk": "https://vk.com/max_frontdev"
+  },
+  "representative": {
+    "tel": "+79175589028",
+    "telegram": "https://t.me/+79175589028",
+    "whatsapp": "https://wa.me/79175589028",
+    "vk": "https://vk.com/irinabykova2014"
+  }
+}
