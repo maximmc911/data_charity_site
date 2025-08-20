@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f5a8e6b1",
+    "label": "Тип помощи",
+    "labelEn": "help_type",
+    "choices": [
+      { "id": "ca33b1af", "value": "all", "text": "Все типы" },
+      { "id": "d9e8f21a", "value": "financial", "text": "Финансовая" },
+      { "id": "17be52c0", "value": "material", "text": "Материальная" },
+      { "id": "ab8cf1d2", "value": "volunteer", "text": "Волонтерская" }
+    ]
+  },
+  {
+    "id": "c92b1fa3",
+    "label": "Категории",
+    "labelEn": "category",
+    "choices": [
+      { "id": "de3ac74f", "value": "all", "text": "Все категории" },
+      { "id": "1a23b45c", "value": "tools", "text": "Инструменты и техника" },
+      { "id": "2b34c56d", "value": "materials", "text": "Строительные материалы" },
+      { "id": "3c45d67e", "value": "energy", "text": "Энергетика и топливо" },
+      { "id": "4d56e78f", "value": "clothing", "text": "Одежда и экипировка" },
+      { "id": "5e67f89a", "value": "safety", "text": "Средства защиты и безопасности" },
+      { "id": "6f78a90b", "value": "food", "text": "Продукты питания" },
+      { "id": "7a89b01c", "value": "hygiene", "text": "Гигиена и бытовое" },
+      { "id": "8b90c12d", "value": "medical", "text": "Медикаменты и здоровье" },
+      { "id": "9c01d23e", "value": "transport", "text": "Транспорт и крупное оборудование" },
+      { "id": "0d12e34f", "value": "other", "text": "Прочее" }
+    ]
+  },
+  {
+    "id": "a7db9c52",
+    "label": "Период",
+    "labelEn": "timeframe",
+    "choices": [
+      { "id": "2fe3a6c1", "value": "all", "text": "За всё время" },
+      { "id": "70f91a3e", "value": "week", "text": "За последнюю неделю" },
+      { "id": "e8023b8a", "value": "month", "text": "За последний месяц" },
+      { "id": "f84ad107", "value": "3months", "text": "За последние 3 месяца" }
+    ]
+  },
+  {
+    "id": "d4310a8e",
+    "label": "Срочность",
+    "labelEn": "level_of_urgency",
+    "choices": [
+      { "id": "95a48be2", "value": "all", "text": "Все" },
+      { "id": "c1f34e89", "value": "urgent", "text": "Срочные" },
+      { "id": "b6ea91fe", "value": "normal", "text": "Обычные" }
+    ]
+  },
+  {
+    "id": "e6b3cfa1",
+    "label": "Статус",
+    "labelEn": "status",
+    "choices": [
+      { "id": "7c1b92d0", "value": "all", "text": "Все" },
+      { "id": "a9d6e5f4", "value": "active", "text": "Активные заявки" },
+      { "id": "b2f8c3a9", "value": "archive", "text": "Архив" }
+    ]
+  }
+]
