@@ -16,10 +16,10 @@
     }
   ],
   "filters": {
-    "categoryKey": "transport",
-    "aidTypeKey": "material",
-    "urgencyKey": "normal",
-    "statusKey": "active"
+    "category": "transport",
+    "help_type": "material",
+    "level_of_urgency": "normal",
+    "status": "active"
   }
 }
 
