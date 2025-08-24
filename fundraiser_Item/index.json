@@ -21,6 +21,69 @@
     "level_of_urgency": "normal",
     "status": "active"
   }
-}
+},
+  {
+    "id": "7g8h9i0j-1k2l-3m4n-5o6p-q7r8s9t0u1v2",
+    "name": "Прибор ночного видения",
+    "description": "Современный прибор ночного видения для работы в условиях недостаточной видимости",
+    "cost": 13000,
+    "collected": 13000,
+    "category": "Средства защиты и безопасности",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "img7-1",
+        "photo": "81701_levenhuk-atom-digital-dnb100-dnv_00-550x550.png"
+      },
+      {
+        "id": "img7-2",
+        "photo": "81701_levenhuk_atom_digital_dnb100_dnv_02_958-550x550.png"
+      },
+      {
+        "id": "img7-22",
+        "photo": "81701_levenhuk_atom_digital_dnb100_dnv_04_396-550x550.png"
+      },
+      {
+        "id": "img7-d22",
+        "photo": "81701_levenhuk_atom_digital_dnb100_dnv_05_993-550x550.png"
+      }
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "safety",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
+  },
+    {
+    "id": "6f7g8h9i-0j1k-2l3m-4n5o-p6q7r8s9t0u1",
+    "name": "Генератор инверторный на 3 КВт",
+    "description": "Инверторный генератор мощностью 3 КВт для обеспечения электроэнергией в полевых условиях",
+    "cost": 22500,
+    "collected": 22500,
+    "category": "Энергетика и топливо",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "img6-1",
+        "photo": "generate.png"
+      },
+      {
+        "id": "imgs6-1",
+        "photo": "181894871.png"
+      }
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "energy",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
+  }
+
 
 ]
