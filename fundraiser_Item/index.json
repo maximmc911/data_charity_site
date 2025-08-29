@@ -83,6 +83,209 @@
       "level_of_urgency": "normal",
       "status": "archive"
     }
+  },
+    {
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6",
+    "name": "Инструменты и оборудование",
+    "description": "Маска сварочная, электроды, диски на болгарку, ножовки по дереву, молотки, топоры, кувалды, лопаты штыковые и совковые",
+    "cost": 30000,
+    "collected": 30000,
+    "category": "Инструменты и техника",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "im5g1-1",
+        "photo": "1026667_preview.png"
+      },
+      {
+        "id": "im54g1-2", 
+        "photo": "disk.png"
+      },
+      {
+        "id": "imhkjg1-1",
+        "photo": "electrod.png"
+      },
+      {
+        "id": "imklg1-2", 
+        "photo": "pila.png"
+      },
+      {
+        "id": "imgnb1-2", 
+        "photo": "mask.png"
+      }
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "tools",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
+  },
+  {
+    "id": "8h9i0j1k-2l3m-4n5o-6p7q-r8s9t0u1v2w3",
+    "name": "Бензопила с аксессуарами",
+    "description": "Бензопила с шинами 40см/16\" и цепями для валки деревья и заготовки дров",
+    "cost": 16000,
+    "collected": 16000,
+    "category": "Инструменты и техника",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "img8-1",
+        "photo": "pila.webp"
+      },
+      {
+        "id": "img8asd-1",
+        "photo": "173270008.webp"
+      }
+
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "tools",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
+  },
+   {
+    "id": "2b3c4d5e-6f7g-8h9i-0j1k-l2m3n4o5p6q7",
+    "name": "Строительные материалы и крепеж",
+    "description": "Саморезы, гвозди, стяжки, пена монтажная, утеплитель, сетка рабица, пленка строительная",
+    "cost": 30000,
+    "collected": 30000,
+    "category": "Строительные материалы",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "img2-1",
+        "photo": "1.png"
+      },
+      {
+        "id": "imgsdsad2-1",
+        "photo": "s-16original-800x800.webp"
+      },
+      {
+        "id": "imgad2-1",
+        "photo": "az8ico1v6766jv587hmlm959pehwtgrc.png"
+      },
+      {
+        "id": "imad2-1",
+        "photo": "1111.970.png"
+      },
+      {
+        "id": "imad2-1",
+        "photo": "f9a897d73c70da1f941fe0da207e4528.png"
+      }
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "materials",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
+  },
+   {
+    "id": "3c4d5e6f-7g8h-9i0j-1k2l-m3n4o5p6q7r8",
+    "name": "Средства защиты и экипировка",
+    "description": "Перчатки строительные, спальные мешки, маски летние, налобные фонари, средства от комаров",
+    "cost": 25000,
+    "collected": 25000,
+    "category": "Средства защиты и безопасности",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "imgsdsd3-1",
+        "photo": "perchatki-kh-b-10-klass-officeclean-lyuks-s-tochechnym-pvkh-4-niti-serye-50-52g-133-teks-art-344221.png"
+      },
+      {
+        "id": "imgsdsadsd3-1",
+        "photo": "e0a797386e03832498edb72054a63e6e.png"
+      },
+      {
+        "id": "idsd3-1",
+        "photo": "9zu5f82rw30tzco02fpfv5nasaf1una3.png"
+      },
+      {
+        "id": "d3-1",
+        "photo": "large_tramp-meshok-spalnyy-fluff_1.png"
+      },
+      {
+        "id": "d43-1",
+        "photo": "шапка-маска-лето-черная-1.png"
+      }
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "safety",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
+  },
+   {
+    "id": "4d5e6f7g-8h9i-0j1k-2l3m-n4o5p6q7r8s9",
+    "name": "Тара и емкости",
+    "description": "Бочки 200л, канистры для воды 30л, мешки компаниры, газовые баллончики",
+    "cost": 10000,
+    "collected": 10000,
+    "category": "Прочее",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "img4-1",
+        "photo": "images.png"
+      },
+      {
+        "id": "ig4-1",
+        "photo": "kp-301.png"
+      }
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "other",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
+  },
+    {
+    "id": "5e6f7g8h-9i0j-1k2l-3m4n-o5p6q7r8s9t0",
+    "name": "Гигиена и бытовые товары",
+    "description": "Влажные полотенца, спирали от комаров, спрей от комаров, таблетки для обеззараживания воды, носки, трусы",
+    "cost": 10000,
+    "collected": 10000,
+    "category": "Гигиена и бытовое",
+    "aidType": "Материальная",
+    "createdAt": "2025-05-16",
+    "urgency": "Обычные",
+    "image": [
+      {
+        "id": "img5-1",
+        "photo": "6511767797.png"
+      },
+      {
+        "id": "imsdg5-1",
+        "photo": "GSfHgDDyqNcwvYePZJJBA.png"
+      },
+      {
+        "id": "imsasddg5-1",
+        "photo": "cpqfgar6eisq2rkcuri0.png"
+      }
+    ],
+    "filters": {
+      "help_type": "material",
+      "category": "hygiene",
+      "level_of_urgency": "normal",
+      "status": "archive"
+    }
   }
 
 
