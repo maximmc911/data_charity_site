@@ -32,3 +32,10 @@ interface financialIndicators {
   replenishment: moneyObject[]
 }
 
+interface reportsPhotos {
+  id: number | string,
+  img: string,
+  description: string,
+  date: string,
+  
+}
