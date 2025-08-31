@@ -1,5 +1,6 @@
 [
   {
+    "id": "e1f2a3b4-c5d6-780-efab-cd1234567890",
     "period": {
       "year": 2025,
       "month": 5,
@@ -67,6 +68,7 @@
     ]
   },
   {
+     "id": "m1n2o3p4-q5r6-7890-no-pqr1234567890",
     "period": {
       "year": 2025,
       "month": 6,
@@ -136,6 +138,7 @@
     ]
   },
   {
+    "id": "t1u2v3w4-7890-tuv-wxy1234567890",
     "period": {
       "year": 2025,
       "month": 7,
@@ -189,6 +192,7 @@
     ]
   },
   {
+     "id": "a1b2c3-e5f6-7890-abcd-ef1234567890",
     "period": {
       "year": 2025,
       "month": 8,
