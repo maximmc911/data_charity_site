@@ -1186,5 +1186,15 @@
         "data": 27
       }
     ]
+  },
+   {
+    "id": "a1b2c3-e5f6-7890-abcd-ef123456sflkj90",
+    "period": {
+      "year": 2025,
+      "month": 9,
+      "initial_amount": "надо заполнить"
+    },
+    "spending": [],
+    "replenishment":[]
   }
 ]
